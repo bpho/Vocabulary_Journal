@@ -12,7 +12,7 @@
 ### Structure
 ```
 {
-    "word": "Assuage"
+    "word": "Assuage",
     "definitions": [
         {
             "part_of_speech": "verb",
